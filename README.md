@@ -1,5 +1,7 @@
 # UE-EditorUIScaleCustomization
 
+This Plugin is UnrealEngine Editor change UserInterface for High DPI Monitor.
+
 ## Setup
 
 `{{ your-project }}/Plugins/`
