@@ -2,7 +2,7 @@
 
 ## Setup
 
-`{{ your-project }}/Plugin/`
+`{{ your-project }}/Plugins/`
 
 Clone to the above path or extract the project downloaded as a Zip. Build it.
 
