@@ -14,6 +14,8 @@ Clone to the above path or extract the project downloaded as a Zip. Build it.
 
 Change `UIScale` Property.
 ![image](Docs/use_00.png)
+![image](Docs/use_01.gif)
+
 
 ## Is this convenient for you?
 
