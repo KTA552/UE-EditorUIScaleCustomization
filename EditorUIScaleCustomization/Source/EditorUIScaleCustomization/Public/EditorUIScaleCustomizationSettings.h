@@ -24,6 +24,6 @@ public:
 	
 	virtual void PostEditChangeProperty(FPropertyChangedEvent& PropertyChangedEvent) override;
 	
-	UPROPERTY(Config, EditAnywhere, BlueprintReadWrite, meta=(ConfigRestartRequired = 1.0f, UIMin=0.5f, UIMax=3.0f))
+	UPROPERTY(Config, EditAnywhere, BlueprintReadWrite, Category=General, meta=(ConfigRestartRequired = 1.0f, UIMin=0.5f, UIMax=3.0f))
 	float UIScale;
 };
