@@ -1,3 +1,6 @@
+![GitHub](https://img.shields.io/github/license/KTA552/UE-EditorUIScaleCustomization)
+![](https://img.shields.io/github/v/tag/KTA552/UE-EditorUIScaleCustomization?label=version)
+
 # UE-EditorUIScaleCustomization
 
 This Plugin is UnrealEngine Editor change UserInterface Scale for High DPI Monitor.
